@@ -1,4 +1,4 @@
 myMWA
 =====
 
-Server side Web Development programmes
+Mobile Web Applications programmes
